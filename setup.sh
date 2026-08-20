@@ -670,7 +670,7 @@ clear
 }
 
 res5() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/install/set-br.sh" /root/set-br.sh && chmod +x /root/set-br.sh && /root/set-br.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/install/set-br.sh" /root/set-br.sh && chmod +x /root/set-br.sh && /root/set-br.sh
 clear
 }
 
