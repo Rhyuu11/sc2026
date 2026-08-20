@@ -656,17 +656,17 @@ fun_bar() {
 
 
 res2() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/install/ssh-vpn.sh" /root/ssh-vpn.sh && chmod +x /root/ssh-vpn.sh && /root/ssh-vpn.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/install/ssh-vpn.sh" /root/ssh-vpn.sh && chmod +x /root/ssh-vpn.sh && /root/ssh-vpn.sh
 clear
 } 
 
 res3() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/install/ins-xray.sh" /root/ins-xray.sh && chmod +x /root/ins-xray.sh && /root/ins-xray.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/install/ins-xray.sh" /root/ins-xray.sh && chmod +x /root/ins-xray.sh && /root/ins-xray.sh
 clear
 }
 
 res4() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/sshws/insshws.sh" /root/insshws.sh && chmod +x /root/insshws.sh && /root/insshws.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/sshws/insshws.sh" /root/insshws.sh && chmod +x /root/insshws.sh && /root/insshws.sh
 clear
 }
 
@@ -676,27 +676,27 @@ clear
 }
 
 res6() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/sshws/ohp.sh" /root/ohp.sh && chmod +x /root/ohp.sh && /root/ohp.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/sshws/ohp.sh" /root/ohp.sh && chmod +x /root/ohp.sh && /root/ohp.sh
 clear
 }
 
 res7() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/menu/update.sh" /root/update.sh && chmod +x /root/update.sh && /root/update.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/menu/update.sh" /root/update.sh && chmod +x /root/update.sh && /root/update.sh
 clear
 }
 
 res8() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/slowdns/installsl.sh" /root/installsl.sh && chmod +x /root/installsl.sh && bash /root/installsl.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/slowdns/installsl.sh" /root/installsl.sh && chmod +x /root/installsl.sh && bash /root/installsl.sh
 clear
 }
 
 res9() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/install/udp-custom.sh" /root/udp-custom.sh && chmod +x /root/udp-custom.sh && bash /root/udp-custom.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/install/udp-custom.sh" /root/udp-custom.sh && chmod +x /root/udp-custom.sh && bash /root/udp-custom.sh
 clear
 }
 
 res10() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/noobz/noobzvpns.zip" /root/noobzvpns.zip
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/noobz/noobzvpns.zip" /root/noobzvpns.zip
 unzip noobzvpns.zip
 chmod +x noobzvpns/*
 cd noobzvpns
@@ -706,12 +706,12 @@ clear
 }
 
 res11() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/bin/limit.sh" /root/limit.sh && chmod +x /root/limit.sh && /root/limit.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/bin/limit.sh" /root/limit.sh && chmod +x /root/limit.sh && /root/limit.sh
 clear
 }
 
 res12() {
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/install/ins-trgo.sh" /root/ins-trgo.sh && chmod +x /root/ins-trgo.sh && /root/ins-trgo.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/install/ins-trgo.sh" /root/ins-trgo.sh && chmod +x /root/ins-trgo.sh && /root/ins-trgo.sh
 clear
 }
 
