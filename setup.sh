@@ -616,7 +616,7 @@ cd
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 >/dev/null 2>&1
 sysctl -w net.ipv6.conf.default.disable_ipv6=1 >/dev/null 2>&1
 clear
-wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/tools.sh" /root/tools.sh
+wget https://raw.githubusercontent.com/Rhyuu11/sc2026/main/tools.sh &> /dev/null
 chmod +x /root/tools.sh
 bash /root/tools.sh
 clear
